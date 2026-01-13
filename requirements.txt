@@ -1,0 +1,25 @@
+# Core dependencies
+torch==2.4.1
+torchvision==0.19.1
+torchaudio==2.4.1
+
+# Data processing
+pandas==2.0.3
+numpy==1.19.5
+
+# Visualization
+matplotlib==3.3.4
+
+# Progress bars
+tqdm
+
+# Jupyter
+jupyter
+notebook
+
+# TensorBoard (optional)
+tensorboard
+
+# Others
+pillow
+scipy==1.7.3
